@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175034197637",
+    "project_id": "evocative-ethos-384802",
+    "storage_bucket": "evocative-ethos-384802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175034197637:android:46c6b655af3726174b6bec",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQCz9PbFZCTruLIcsCw_thhzxb6OgAdrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

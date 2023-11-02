@@ -1,6 +1,7 @@
+import 'package:chatapp/providers/auth.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter_chat_app/providers/auth_provider.dart';
+import 'package:flutter_chat_app/providers/auth.dart';
 
 class AuthScreen extends StatelessWidget {
   @override

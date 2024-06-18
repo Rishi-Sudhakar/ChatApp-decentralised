@@ -1,7 +1,4 @@
-
-
 ## Decentralised ChatAPP
-
 
 
 ## Installation
@@ -15,10 +12,11 @@ git clone https://github.com/Rishi-Sudhakar/ChatApp-decentralised.git
 ```
 Now locate the directory,
 ```sh
-cd ChatApp
+cd ChatApp-decentralised
 ```
 
-Now you should get all the flutter dependencies,
+Now you should get all the flutter dependencies or Alternatively you can use android studio which can fetch dependencies, build and run.
+
 ```sh
 flutter pub get
 ```
@@ -30,3 +28,5 @@ Now, turn on an emulator or a physical device if you wish to test the applicatio
 ```sh
 flutter run
 ```
+
+You can choose any Virtual/Physical devices and proceed to build the app in the device. Note that it's just development build and not the final build for deployment.
